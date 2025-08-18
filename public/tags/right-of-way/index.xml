@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Right of Way on German Driving Prep</title>
+        <link>http://localhost:1313/tags/right-of-way/</link>
+        <description>Recent content in Right of Way on German Driving Prep</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/right-of-way/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Right of Way Pyramid</title>
+        <link>http://localhost:1313/p/right-of-way-pyramid/</link>
+        <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/right-of-way-pyramid/</guid>
+        <description>&lt;h1 id=&#34;right-of-way-the-priority-pyramid&#34;&gt;Right of Way: The Priority Pyramid
+&lt;/h1&gt;&lt;p&gt;This is the hierarchy of rules at any German intersection. The rule at the top always beats the ones below it. &lt;code&gt;$Rechts vor Links$&lt;/code&gt; is the last resort.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-1-police-officer&#34;&gt;🥇 1. Police Officer (`Polizeibeamter`)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Their hand signals override ALL other rules. What they say, goes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-2-traffic-lights&#34;&gt;🥈 2. Traffic Lights (`Ampeln`)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;A working traffic light overrides all signs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Green Light:&lt;/strong&gt; You have priority to proceed in the direction shown.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flashing Yellow Light:&lt;/strong&gt; The light is not in service. Look down to Level 3 (Signs).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-3-traffic-signs&#34;&gt;🥉 3. Traffic Signs (`Verkehrszeichen`)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;If there are no lights or police, signs dictate priority.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You HAVE Priority:&lt;/strong&gt; When you see the yellow diamond sign (`Vorfahrtsstraße`).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You MUST YIELD Priority:&lt;/strong&gt; When you see the Yield sign or a STOP sign.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;4-special-situations&#34;&gt;4. Special Situations (&#34;Entering&#34; Traffic)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The vehicle &amp;ldquo;entering&amp;rdquo; the road must yield to everyone. This rule beats &lt;code&gt;$Rechts vor Links$&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;This applies when exiting from:
+&lt;ul&gt;
+&lt;li&gt;A lowered curb (`abgesenkter Bordstein`)&lt;/li&gt;
+&lt;li&gt;A private property or driveway&lt;/li&gt;
+&lt;li&gt;A parking lot&lt;/li&gt;
+&lt;li&gt;A traffic-calmed area (`verkehrsberuhigter Bereich`)&lt;/li&gt;
+&lt;li&gt;A field or forest path&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;5-default-rule&#34;&gt;5. Default Rule (`Grundregel`)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;If &lt;strong&gt;NONE&lt;/strong&gt; of the above apply (no police, lights, signs, or special situations), then and only then does &lt;strong&gt;&lt;code&gt;$Rechts vor Links$&lt;/code&gt;&lt;/strong&gt; (Right before Left) rule the intersection.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
