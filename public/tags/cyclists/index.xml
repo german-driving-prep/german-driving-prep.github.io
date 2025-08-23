@@ -7,6 +7,60 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cyclists/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Einbahnstrasse Rules</title>
+        <link>http://localhost:1313/p/einbahnstrasse-rules/</link>
+        <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/einbahnstrasse-rules/</guid>
+        <description>&lt;h1 id=&#34;einbahnstrasse-rules&#34;&gt;Einbahnstrasse Rules
+&lt;/h1&gt;&lt;p&gt;This file covers the two types of one-way streets (`Einbahnstraße`) and the different rules for positioning your car. The key is to always check for the small additional sign.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;scenario-1-standard-one-way-street&#34;&gt;Scenario 1: Standard One-Way Street
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;The Sign:&lt;/strong&gt; A square blue sign with a single, large white arrow.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://placehold.co/150x150/3498db/ffffff?text=Einbahn-%0Astra%C3%9Fe&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Standard Einbahnstraße Sign&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Rule:&lt;/strong&gt; Traffic flows in one direction only for all vehicles.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Action: Turning Left&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Your Position:&lt;/strong&gt; You &lt;strong&gt;must&lt;/strong&gt; move your car to the &lt;strong&gt;far left edge&lt;/strong&gt; of the road before making the turn.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why:&lt;/strong&gt; This allows traffic behind you that is going straight or turning right to pass you on the right.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Common Mistake:&lt;/strong&gt; Staying in the middle or on the right to turn left. This is incorrect positioning and blocks traffic unnecessarily.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;scenario-2-one-way-street-with-cyclist-exception&#34;&gt;Scenario 2: One-Way Street WITH Cyclist Exception
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;The Sign:&lt;/strong&gt; The standard blue &lt;code&gt;Einbahnstraße&lt;/code&gt; sign &lt;strong&gt;PLUS&lt;/strong&gt; a small white sign underneath showing a bicycle symbol (`Radfahrer frei`).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://placehold.co/250x150/3498db/ffffff?text=Einbahnstra%C3%9Fe%0A%2B%0ARadfahrer%20frei&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Einbahnstraße with Radfahrer frei Sign&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Rule:&lt;/strong&gt; The street is one-way for cars, but &lt;strong&gt;TWO-WAY for cyclists.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Action: Change Your Mindset&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Your Position:&lt;/strong&gt; You &lt;strong&gt;must&lt;/strong&gt; treat this like a narrow, two-way street. &lt;strong&gt;Stay on the right side of the road at all times.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Be Alert:&lt;/strong&gt; Constantly expect cyclists to appear from the opposite direction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turning Left:&lt;/strong&gt; Position your car near the center of the road (not the far left) and yield to any oncoming cyclists before you turn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Common Mistake:&lt;/strong&gt; Missing the small white sign and and driving on the left side of the road, creating a dangerous head-on situation with a cyclist. This is a critical safety failure.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;final-takeaway&#34;&gt;Final Takeaway
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Always check for the small white sign under the blue arrow.&lt;/strong&gt; It completely changes how you must position your car.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Vulnerable Road Users</title>
         <link>http://localhost:1313/p/vulnerable-road-users/</link>
         <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>

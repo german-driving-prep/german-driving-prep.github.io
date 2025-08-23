@@ -2,7 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/p/10-critical-exam-failures/</loc>
+    <lastmod>2025-08-23T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-08-23T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-08-23T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/common-german-driving-test-commands/</loc>
+    <lastmod>2025-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/exam-tips/</loc>
+    <lastmod>2025-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/german/</loc>
+    <lastmod>2025-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/checklist-driving-in-a-zone-30/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/intersections/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/priority-rules/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/right-of-way/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/road-signs/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/safety/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/speed-control/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zone-30/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/autobahn/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/buses/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/p/critical-exam-maneuvers/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cyclists/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/driving-in-rural-areas/</loc>
@@ -14,23 +68,36 @@
     <loc>http://localhost:1313/p/exam-day-mantras/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/tags/exam-maneuvers/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mindset/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/one-way-streets/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/parking/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/patience/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/patience-and-calmness-protocol/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/tags/pedestrians/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/right-of-way-pyramid/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rural-roads/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/vulnerable-road-users/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
